@@ -23,5 +23,5 @@ Fast and forward-focused with a strong ability to identify opportunities for rev
 
 My [LinkedIn] page
 
-[LinkenIn]: https://www.linkedin.com/in/nicholas-abbott-4664a256/ 
+[LinkedIn]: https://www.linkedin.com/in/nicholas-abbott-4664a256/ 
 [Nabbott101]: https://github.com/Nabbott101
