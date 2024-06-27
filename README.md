@@ -27,7 +27,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [website]: https://www.linkedin.com/in/nicholas-abbott-4664a256/ 
-
-go to [oracle](https://oracle.com/)
-
 go to [LinkedIn][website]
