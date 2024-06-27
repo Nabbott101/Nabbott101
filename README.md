@@ -1,12 +1,12 @@
-# Nicholas H. Abbott
-Email: AbbottN24@yahoo.com
+# <em> Nicholas H. Abbott </em>
+<strong>Email: </strong> AbbottN24@yahoo.com
 
-GitHub: Nabbott101
+<strong>GitHub: </strong> Nabbott101
 
-> Manufacturing Engineering<br>
-> Six Sigma Green Belt Cert.
+> <strong>Manufacturing Engineering </strong><br>
+> <strong>Six Sigma Green Belt Cert. </strong>
 
-Forward-focused with a strong ability to identify opportunities for revenue growth and build high-performance teams to support company objectives. 
+Fast and forward-focused with a strong ability to identify opportunities for revenue growth and build high-performance teams to support company and client objectives. 
 
 
 ## Experience
@@ -20,12 +20,5 @@ Forward-focused with a strong ability to identify opportunities for revenue grow
 * Team Leadership
 * CSS
 
-
-  
-<!---
-karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 [website]: https://www.linkedin.com/in/nicholas-abbott-4664a256/ 
-go to [LinkedIn][website]
+My [LinkedIn][website] page
