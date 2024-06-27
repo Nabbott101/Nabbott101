@@ -1,9 +1,10 @@
 # Nicholas H. Abbott
 Email: AbbottN24@yahoo.com
 
-Nabbott101
+GitHub: Nabbott101
 
-Manufacturing Engineering Six Sigma Green Belt Cert.
+> Manufacturing Engineering<br>
+> Six Sigma Green Belt Cert.
 
 Forward-focused with a strong ability to identify opportunities for revenue growth and build high-performance teams to support company objectives. 
 
